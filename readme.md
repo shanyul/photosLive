@@ -17,14 +17,18 @@ Screenshots
 
 ![PhotosLive](https://shanyuliang.oss-cn-shenzhen.aliyuncs.com/normal/pl20190805170052.png)
 
+<p>
 <a href="http://vue.shanyuliang.com/">
 演示地址
 </a>
+</p>
 
 ##Reference
+<p>
 <a href="https://github.com/MasahiroHarada/vuesplash">
 VueSplash
 </a>
+</p>
 
 ## License
 
