@@ -8,13 +8,6 @@ PhotosLive
 Laravel + Vue + Oss 搭建的图片墙小站，只用来学习，如图片有侵权，请联系删除<pig@shanyuliang.com>
 </p>
 
-Requirements
-------------
- - PHP >= 7.0.0
-
-Screenshots
-------------
-
 <p>
 <a href="http://vue.shanyuliang.com/">
 <img src="https://shanyuliang.oss-cn-shenzhen.aliyuncs.com/normal/pl20190805170052.png" alt="PhotosLive">
@@ -26,6 +19,10 @@ Screenshots
 演示地址
 </a>
 </p>
+
+Requirements
+------------
+ - PHP >= 7.0.0
 
 ## Reference
 <p>
