@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27fc004b-0158-4371-8a8c-31b5c5f5405e" name="vuesplash" url="http://116.62.163.130">
+        <fileTransfer host="116.62.163.130" port="22" rootFolder="/data/wwwroot/vuesplash" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
