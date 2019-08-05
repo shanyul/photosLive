@@ -15,7 +15,11 @@ Requirements
 Screenshots
 ------------
 
-![PhotosLive](https://shanyuliang.oss-cn-shenzhen.aliyuncs.com/normal/pl20190805170052.png)
+<p>
+<a href="http://vue.shanyuliang.com/">
+<img src="https://shanyuliang.oss-cn-shenzhen.aliyuncs.com/normal/pl20190805170052.png" alt="PhotosLive">
+</a>
+</p>
 
 <p>
 <a href="http://vue.shanyuliang.com/">
@@ -23,7 +27,7 @@ Screenshots
 </a>
 </p>
 
-##Reference
+## Reference
 <p>
 <a href="https://github.com/MasahiroHarada/vuesplash">
 VueSplash
