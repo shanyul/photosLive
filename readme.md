@@ -5,7 +5,7 @@ PhotosLive
 </p>
 
 <p align="center">
-Laravel + Vue + Oss 搭建的图片墙小站，只用来学习，如图片有侵权，请联系删除<pig@shanyuliang.com>
+Laravel + Vue + Oss 搭建的图片墙小站，只用来学习，如图片有侵权，请联系删除 pig@shanyuliang.com
 </p>
 
 
