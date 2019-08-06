@@ -12,7 +12,14 @@ Laravel + Vue + Oss 搭建的图片墙小站，只用来学习，如图片有侵
 Requirements
 ------------
  - PHP >= 7.0.0
+ 
+ Function
+ ------------
 
+ - 图片上传
+ - 图片评论
+ - 收藏
+ - 下载
 
 Screenshots
 ------------
